@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs related to numeric data handling, specifically division by zero. The `bug.cob` file contains the erroneous code, while `bugSolution.cob` provides the corrected version with proper error handling and data validation.
